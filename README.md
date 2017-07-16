@@ -18,10 +18,10 @@ $ python crawler.py
 ```
 
 ## Disclaimer
-The script does not display all the tournaments listed in the webpage. Only a few from the top are shown. 
-The script requires Firefox to be installed.
-The code does not follow the best coding practices. It is just a simple script to extract required data. 
+The script does not display all the tournaments listed in the webpage. Only a few from the top are shown.  
+The code does not follow the best coding practices. It is just a simple script to extract required data.  
 Contact me if there are any bugs or compatibility issues.
 
 ## To Do
 Test the infinite scroll load on a slow internet connection
+
